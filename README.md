@@ -1,8 +1,8 @@
 # Formulário com login e cadastrar
 
-<img src="001.jpg" width="500px">
+<img src="001.png" width="500px">
 
-<img src="002.jpg" width="500px">
+<img src="002.png" width="500px">
 
 # CÓDIGO FONTE:
  - https://www.youtube.com/watch?v=G58ZcfjSz0U&t=236s
